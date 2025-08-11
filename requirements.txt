@@ -6,3 +6,4 @@ scipy==1.7.3
 matplotlib==3.5.1
 opencv-python==4.5.5.64
 pyinstaller==4.5.1
+keras>=3.11.0 # not directly required, pinned by Snyk to avoid a vulnerability
